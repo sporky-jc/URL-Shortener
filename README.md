@@ -12,7 +12,7 @@ To install the URL Shortener CLI, follow these steps:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/ragedestiny/URL-Shortener.git
+   git clone https://github.com/sporky-jc/URL-Shortener.git
    ```
 
 3. Navigate to the project directory:
